@@ -1,4 +1,4 @@
-# Hi there, my name is Daniel 👋
+# Hello there, my name is Daniel 👋
 
 I'm a passionate Front-End Developer with a knack for creating engaging and user-friendly web experiences. I love working with modern web technologies and continuously learning new things.
 
