@@ -14,7 +14,7 @@ Welcome to the Community Science Museum website frontend project! This project a
 A project demonstrating how to fetch and display data from a public API using JavaScript and async/await. And also display data from our own created API
 
 
-### Languages and Tools:
+## 🛠️ 💻 Languages and Tools
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
 <img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
