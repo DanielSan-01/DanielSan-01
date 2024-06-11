@@ -7,7 +7,7 @@ I'm a passionate Front-End Developer with a knack for creating engaging and user
 ### [Project 1: Awesome website for adventure clothing](https://danielsan-01.github.io/rainydays/index.html)
 This project aims to create an engaging and responsive web interface for an adventure clothing brand. The website showcases a variety of adventure gear and apparel, providing users with a seamless shopping experience.
 
-### [Project 2: Community science museum's page](https://danielsan-01.github.io/community-science-museum-SP1/)
+### [Project 2: Community science museum's page](https://danielsan-01.github.io/Operation-lookingGlass-CSM---SP1-/)
 Welcome to the Community Science Museum website frontend project! This project aims to develop an interactive and informative web interface for a community science museum. The website offers details about exhibits, events, educational programs, and visitor information to engage and educate the public. Using pure HTML and CSS
 
 ### [Project 3: Create and fetch API Data](https://agency1-pokevault.netlify.app/)
