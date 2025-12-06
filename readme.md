@@ -1,10 +1,10 @@
-# Hello there, my name is Daniel 
+# Hello there, my name is Danielsan 
 
 I'm a passionate Front-End Developer with a knack for creating engaging and user-friendly web experiences. I love working with modern web technologies and continuously learning new things.
 
 ##  Projects
 
-### [CS inventory tracker]([https://www.csinvtracker.com])
+### [CS inventory tracker](https://www.csinvtracker.com)
 My first fullstack application, tracker of inventory with dashboard for performance in inventory. Using steam API.
 
 ### [Project 1: Awesome website for adventure clothing](https://danielsan-01.github.io/rainydays/index.html)
