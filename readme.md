@@ -5,7 +5,7 @@ I'm a passionate Front-End Developer with a knack for creating engaging and user
 ##  Projects
 
 ### [CS inventory tracker](https://www.csinvtracker.com)
-My first fullstack application, tracker of inventory with dashboard for performance in inventory. Using steam API.
+My first fullstack application,tracks users inventory and their performance, item purchase planner and loadout cooker. Using steam API, user can log in and import their inventory.
 
 ### [Project 1: Awesome website for adventure clothing](https://danielsan-01.github.io/rainydays/index.html)
 This project aims to create an engaging and responsive web interface for an adventure clothing brand. The website showcases a variety of adventure gear and apparel, providing users with a seamless shopping experience.
@@ -15,12 +15,14 @@ Welcome to the Community Science Museum website frontend project! This project a
 
 
 ## Languages and Tools
-
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
 <img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
 <img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
 <img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
-
+<img align="left" alt="TypeScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />
+<img align="left" alt=".NET" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" style="padding-right:10px;" />
+<img align="left" alt="PostgreSQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" style="padding-right:10px;" />
 <br>
 
 ##  Currently Learning
