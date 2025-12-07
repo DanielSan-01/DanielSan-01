@@ -7,12 +7,6 @@ me gusta programming
 ### [CS inventory tracker](https://www.csinvtracker.com)
 My first fullstack application,tracks users inventory and their performance, item purchase planner and loadout cooker. Using steam API, user can log in and import their inventory.
 
-### [Project 1: Awesome website for adventure clothing](https://danielsan-01.github.io/rainydays/index.html)
-This project aims to create an engaging and responsive web interface for an adventure clothing brand. The website showcases a variety of adventure gear and apparel, providing users with a seamless shopping experience.
-
-### [Project 2: Community science museum's page](https://danielsan-01.github.io/Operation-lookingGlass-CSM---SP1-/)
-Welcome to the Community Science Museum website frontend project! This project aims to develop an interactive and informative web interface for a community science museum. The website offers details about exhibits, events, educational programs, and visitor information to engage and educate the public. Using pure HTML and CSS
-
 
 ## Languages and Tools
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
@@ -32,6 +26,18 @@ Welcome to the Community Science Museum website frontend project! This project a
 - .net
 - GSAP
 - Postgress
+
+  #### Earlier Projects
+During my studies, I built these projects to develop my frontend fundamentals:
+
+**[Holidaze - Venue Booking Platform](https://danielsan-01.github.io/Holidaze/)**  
+Final exam project combining everything I learned. A modern venue booking application built with React, Vite, and Tailwind CSS.
+
+**[Adventure Clothing E-commerce](https://danielsan-01.github.io/rainydays/index.html)**  
+A responsive web interface for an adventure clothing brand showcasing outdoor gear and apparel with a seamless shopping experience.
+
+**[Community Science Museum](https://danielsan-01.github.io/Operation-lookingGlass-CSM---SP1-/)**  
+An interactive website for a community science museum featuring exhibits, events, and educational programs. Built with pure HTML and CSS.
 
 ##  How to reach me
 
