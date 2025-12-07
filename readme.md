@@ -20,12 +20,6 @@ My first fullstack application,tracks users inventory and their performance, ite
 <img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />
 <br>
 
-##  Currently Learning
-
-- TypeScript
-- .net
-- GSAP
-- Postgress
 
   #### Earlier Projects
 During my studies, I built these projects to develop my frontend fundamentals:
