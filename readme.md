@@ -5,7 +5,7 @@ me gusta programming
 ##  Projects
 
 ### [CS inventory tracker](https://www.csinvtracker.com)
-My first fullstack application, for cs2 players where they can track and analyse their ingame inventory, item purchase planner and loadout cooker. Using steam API, user can log in and import their inventory. Site is not affiliated with valve.
+My first fullstack application, for cs2 players where they can track and analyse their ingame inventory. The solution also includes item purchase planner and loadout cooker. Using steam API, user can log in and import their inventory. Site is not affiliated with Valve.
 
  ##Core features
    - auto fetch profile (inventory, avatar and displayname)
