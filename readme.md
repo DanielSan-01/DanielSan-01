@@ -15,7 +15,7 @@ My first fullstack application, for cs2 players where they can track and analyse
    -   Loadout builder, create and save custom loadouts
    -   Analytics of users inventory with piecharts of inv value, best and worst peformers
 
-  Tech stack
+ ## Tech stack
     Frontend
       - Next.js, TypeScript, GSAP, Recharts and Jest
     Backend
