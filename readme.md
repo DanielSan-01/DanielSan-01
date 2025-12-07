@@ -6,11 +6,11 @@ me gusta programming
 
 ### [CS inventory tracker](https://www.csinvtracker.com)
 My first fullstack application, for cs2 players where they can track and analyse their ingame inventory, item purchase planner and loadout cooker. Using steam API, user can log in and import their inventory. Site is not affiliated with valve.
- Core features
-   - steam id auth that gives user secure login
+
+ ##Core features
    - auto fetch profile (inventory, avatar and displayname)
-   - Full steam inventory and authentication
-     -   tracks skins with float, price, stickers and cost
+   - Full steam inventory and authentication (avatar and displayname)
+      -   tracks skins with float, price, stickers and cost
    -   Goal Planner, set target and track savings progress.
    -   Loadout builder, create and save custom loadouts
    -   Analytics of users inventory with piecharts of inv value, best and worst peformers
