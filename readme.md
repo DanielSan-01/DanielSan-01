@@ -4,7 +4,7 @@
 
 ##  Projects
 
-### [CS inventory tracker](https://www.csinvtracker.com) | [git repo](https://github.com/DanielSan-01/csInvTracker)
+### [www.csinvtracker.com](https://www.csinvtracker.com) | [git repo](https://github.com/DanielSan-01/csInvTracker)
 My first fullstack application, for cs2 players where they can track and analyse their ingame inventory. The solution also includes item purchase planner and loadout cooker. Using steam API, user can log in and import their inventory. Site is not affiliated with Valve.
 
 /demo in the URL to veiw the functionality of the website
