@@ -55,4 +55,4 @@ An interactive website for a community science museum featuring exhibits, events
 
 - [Portfolio]([danielsan-01.github.io/portofolio-website/](https://danielsan-01.github.io/portofolio-website/))
 - [LinkedIn](https://www.linkedin.com/in/daniel-%C3%B8stensen-84483ab0/)
-- [My repos]([https://www.linkedin.com/in/daniel-%C3%B8stensen-84483ab0/](https://github.com/DanielSan-01?tab=repositories)
+- [My repos](https://github.com/DanielSan-01?tab=repositories)
