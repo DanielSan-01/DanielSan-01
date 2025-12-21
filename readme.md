@@ -1,6 +1,6 @@
 # Hello there, my name is Danielsan 
 
-#### [Portfolio site](https://danielsan-01.github.io/portfolio/)
+#### [Portfolio site](https://danielsan-01.github.io/portfolio/) - type **classic** to veiw a normal portfolio website or type help to see all commands
 
 ##  Projects
 
