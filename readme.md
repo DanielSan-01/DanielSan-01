@@ -1,6 +1,6 @@
 # Hello there, my name is Danielsan 
 
-#### [Portfolio site](https://danielsan-01.github.io/portfolio/) - type **classic** to veiw a normal portfolio website or type help to see all commands
+#### [Portfolio site](https://danielsan-01.github.io/portfolio/) - type **classic** to view a normal portfolio website or type help to see all commands
 
 ##  Projects
 
@@ -8,7 +8,7 @@
 My first fullstack application, Taken from Figma designs through deployment with custom domain and Railway hosting.
 Made for cs2 players where they can track and analyse their ingame inventory. The solution also includes item purchase planner and loadout cooker. Using steam API, user can log in and import their inventory. Site is not affiliated with Valve.
 
-**/demo** in the **URL** to veiw the functionality of the website
+**/demo** in the **URL** to view the functionality of the website
 
  ## Core features
  
@@ -16,13 +16,13 @@ Made for cs2 players where they can track and analyse their ingame inventory. Th
       -   tracks skins with float, price, stickers and cost
    -   Goal Planner, set target and track savings progress.
    -   Loadout builder, create and save custom loadouts
-   -   Analytics of users inventory with piecharts of inv value, best and worst peformers
+   -   Analytics of users inventory with piecharts of inv value, best and worst performers
 
  ## Tech stack
     Frontend
       - Next.js, TypeScript, GSAP, Recharts and Jest
     Backend
-      - .net 9.0, ASP.NET Core, EF core, PostgressSQL and Swagger
+      - .net 9.0, ASP.NET Core, EF core, PostgreSQL and Swagger
     DevOps
       - Railway, Vercel, Docker
 
